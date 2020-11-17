@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Python+Django
 - 🤔 I’m looking for help with ... Google
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email](https://mail.google.com/mail/u/1/#inbox)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/aa-nadim/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Finnish
 -->
