@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... PyCharm
+- 🔭 I’m currently working on ... PyCharm,Visual Studio,Notepad++,MySQL Workbench
 - 🌱 I’m currently learning ... Python+Django
 - 👯 I’m looking to collaborate on ... Python+Django
 - 🤔 I’m looking for help with ... Google
