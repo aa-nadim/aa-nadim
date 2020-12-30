@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... PyCharm,Visual Studio,Notepad++,MySQL Workbench
-- 🌱 I’m currently learning ... Python+Django
-- 👯 I’m looking to collaborate on ... Python+Django
+- 🔭 I’m currently working on ... Visual Studio,Notepad++
+- 🌱 I’m currently learning ... Data structures
+- 👯 I’m looking to collaborate on ... Competitive Programming
 - 🤔 I’m looking for help with ... Google
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/aa-nadim/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am half Finnish
+- ⚡ Fun fact: ... I am quarter Finnish
 -->
