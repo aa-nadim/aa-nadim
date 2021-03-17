@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/aa-nadim/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am quarter Finnish
--->![img_4286a-35x23](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
+-->![img_428a-35x23](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
