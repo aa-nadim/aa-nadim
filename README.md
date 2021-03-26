@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Visual Studio + CodeBlocks
-- 🌱 I’m currently learning ... javascript + React + NodeJS
+- 🌱 I’m currently learning ... javascript + React + NodeJS + MongoDB
 - 👯 I’m looking to collaborate on ... [Competitive Programming](https://codeforces.com/profile/GarbageValue) + front-end development
 - 🤔 I’m looking for help with ... Google
 - 💬 Ask me about ... Anything
