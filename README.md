@@ -44,8 +44,7 @@
 <div style="display: flex;">
   <div style="width: 50%;" align="center" >
     
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]
-(https://www.linkedin.com/in/aa-nadim/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aa-nadim/)
 &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/aa-nadim)
 
    <div style="width: 50%;" align="center" >
