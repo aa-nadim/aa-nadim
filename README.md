@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<a href="https://www.stopstalk.com/user/profile/Garbage_Value" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14951079?s=200&v=4" alt="codeforces" width="40" height="40"/> </a>
+<a href="https://www.stopstalk.com/user/profile/Garbage_Value" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14951079?s=200&v=4" alt="stopstalk" width="40" height="40"/> </a>
 <a href="https://codeforces.com/profile/GarbageValue" target="_blank"> <img src="https://4.bp.blogspot.com/-v-hzJIq0u7s/WtG1pXclDOI/AAAAAAAABwc/sSKMErfMuecOkdtentny-wBdNTtJi82oQCEwYBhgL/s1600/codeforce.png" alt="codeforces" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="40" height="40"/> </a>
