@@ -5,9 +5,9 @@
 
 
 <p align="center">
-<a href="https://www.stopstalk.com/user/profile/Garbage_Value" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14951079?s=200&v=4" alt="stopstalk" width="40" height="40"/> </a>
-<a href="https://codeforces.com/profile/GarbageValue" target="_blank"> <img src="https://4.bp.blogspot.com/-v-hzJIq0u7s/WtG1pXclDOI/AAAAAAAABwc/sSKMErfMuecOkdtentny-wBdNTtJi82oQCEwYBhgL/s1600/codeforce.png" alt="codeforces" width="40" height="40"/> </a>
-<a href="https://www.hackerrank.com/Garbage__Value" target="_blank"> <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="hackerrank" width="40" height="40"/> </a>
+<a href="https://www.stopstalk.com/user/profile/Garbage_Value" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14951079?s=200&v=4" alt="stopstalk" width="60" height="60"/> </a>
+<a href="https://codeforces.com/profile/GarbageValue" target="_blank"> <img src="https://4.bp.blogspot.com/-v-hzJIq0u7s/WtG1pXclDOI/AAAAAAAABwc/sSKMErfMuecOkdtentny-wBdNTtJi82oQCEwYBhgL/s1600/codeforce.png" alt="codeforces" width="60" height="60"/> </a>
+<a href="https://www.hackerrank.com/Garbage__Value" target="_blank"> <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="hackerrank" width="60" height="60"/> </a>
 </p>
 <div style="width: 100%;" align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aa-nadim" alt="aa-nadim" />
