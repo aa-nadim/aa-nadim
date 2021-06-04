@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadim</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Software Developer from Bangladesh</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aa-nadim](https://github.com/aa-nadim)
 
