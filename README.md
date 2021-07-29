@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at -> [https://github.com/aa-nadim](https://github.com/aa-nadim)
 
-- 💬 Ask me about -> **react.js Node.js javaScript**
+- 💬 Ask me about -> **react.js javaScript**
 
 - 📫 How to reach me -> **nadim.ice.nstu@gmal.com**
 
