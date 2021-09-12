@@ -3,13 +3,12 @@
 
 - 👨‍💻 All of my projects are available at -> [https://github.com/aa-nadim](https://github.com/aa-nadim)
 
-- 💬 Ask me about -> **react.js javaScript**
+- 💬 Ask me about -> **ReactJS JavaScript NodeJS MongoDB ExpressJS**
 
 - 📫 How to reach me -> **nadim.ice.nstu@gmal.com**
 
 - 📄 Know about my experiences -> [My_Resume](https://drive.google.com/file/d/1F8gDKhethKOY83eMUIU6fN3WJQsKSIMq/view)
 
-- ⚡ Fun fact -> **I am half finished**
 
 <br>
 
