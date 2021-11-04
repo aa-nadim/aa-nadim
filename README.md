@@ -7,7 +7,7 @@
 
 - 📫 How to reach me -> **nadim.ice.nstu@gmal.com**
 
-- 📄 Know about my experiences -> [My_Resume](https://drive.google.com/file/d/1F8gDKhethKOY83eMUIU6fN3WJQsKSIMq/view)
+- 📄 Know about my experiences -> [My LinkedIn Profile](https://www.linkedin.com/in/aa-nadim/)
 
 
 <br>
