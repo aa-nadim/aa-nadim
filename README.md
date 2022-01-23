@@ -45,8 +45,7 @@
  
  <div >
    <div style="width: 50%;" align="center" >
-   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=aa-nadim"></a>
+   ![Profile views](https://gpvc.arturio.dev/aa-nadim)
   </div>
   </div>
         
