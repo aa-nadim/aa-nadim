@@ -3,7 +3,7 @@
   <h1>This is "Abdul Awal Nadim".</h1>
   <h2>Full-Stack Programmer || Competitive Coder || Engineering Student</h2>
 </div>
-<h3 align="center">A passionate Software Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Developer from Bangladesh.</h3>
 
 - 👨‍💻 All of my projects are available at -> [Github/aa-nadim](https://github.com/aa-nadim)  ,  [Gitlab/aa-nadim](https://gitlab.com/aa-nadim)
 
