@@ -10,7 +10,7 @@
 
 - 👁️ To see my project related videos -> [YouTube/aa nadim](https://www.youtube.com/channel/UC95KDH8V9J4J0AfbLFL1jwg)
 
-- 💬 Ask me about -> **JavaScript, ReactJS, NextJS, NodeJS, MongoDB, ExpressJS.**
+- 💬 Ask me about -> **C/C++, data structure & algorithm, JavaScript, ReactJS **
 
 - 📫 How to reach me -> **nadim.ice.nstu@gmal.com**
 
