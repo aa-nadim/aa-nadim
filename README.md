@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hello,</h3> 
-  <h1>This is "A. A. Nadim".</h1>
+  <h1>This is "Nadim".</h1>
   <h2>Passionate technologist || Competitive Coder</h2>
 </div>
 
