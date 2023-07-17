@@ -9,10 +9,6 @@
 
 - 👁️ To see my project related videos -> [YouTube/aa nadim](https://www.youtube.com/channel/UC95KDH8V9J4J0AfbLFL1jwg)
 
-- 💬 Ask me about -> **C/C++, JavaScript, data structure & algorithm, ReactJS.**
-
-- 📫 How to reach me -> **nadim.ice.nstu@gmal.com**
-
 - 📄 Know about my experiences -> [My LinkedIn Profile](https://www.linkedin.com/in/aa-nadim/)
 
 
