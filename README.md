@@ -1,7 +1,6 @@
 <div align="center">
-  <h3>Hello,</h3> 
-  <h1>This is "Nadim".</h1>
-  <h2>Passionate technologist || Competitive Coder</h2>
+  <h1>Hello, This is "Nadim".</h1>
+  <h2>Competitive Programmer || ICE undergrad</h2>
 </div>
 
 
