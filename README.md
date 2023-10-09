@@ -9,7 +9,6 @@
 
 - Interests:
   - Web Development
-  - Machine Learning
   - Data Structure and Algorithms
   - Microservices
   - DevOps
