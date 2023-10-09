@@ -6,14 +6,14 @@
 
 #### I am a graduate of Information & Communication Engineering, NSTU. Currently, I am working at ```E Soft Ltd.``` as an ```IT Intern```.
 <br/>
--Interests:
+- Interests:
   - Web Development
   - Machine Learning
   - Data Structure and Algorithms
   - Microservices
   - DevOps
 
-<br/>
+<br>
 - 👨‍💻 All of my projects are available at -> [Github/aa-nadim](https://github.com/aa-nadim)  ,  [Gitlab/aa-nadim](https://gitlab.com/aa-nadim)
 
 - 👁️ To see my project related videos -> [YouTube/aa nadim](https://www.youtube.com/channel/UC95KDH8V9J4J0AfbLFL1jwg)
