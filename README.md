@@ -1,7 +1,19 @@
-<div align="center">
-  <h1>Hello, This is "Nadim".</h1>
-  <h2>Competitive Programmer || ICE undergrad</h2>
-</div>
+<!-- ### Hi there 👋 -->
+
+<!--
+**aa-nadim/aa-nadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## Abdul Awal Nadim
+
+#### I am a graduate of Information & Communication Engineering, NSTU. Currently, I am working at ```E Soft Ltd.``` as an ```IT Intern```.
+<br/>
+
+- I’m a FullStack developer
+- Interests:
+  - Web Development
+  - Machine Learning
+  - Data Structure and Algorithms
+  - Microservices
+  - DevOps
 
 
 - 👨‍💻 All of my projects are available at -> [Github/aa-nadim](https://github.com/aa-nadim)  ,  [Gitlab/aa-nadim](https://gitlab.com/aa-nadim)
