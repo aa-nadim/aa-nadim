@@ -51,7 +51,7 @@
 ### Connect with me
 <p align="center">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-nadim.ice.nstu@gmail.com-red?&style=flat-square&logo=gmail&logoColor=red" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/aa-nadim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Tanzim%20Azad-blue?&style=flat-square&logo=linkedin&logoColor=blue" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/aa-nadim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Abdul%20Awal%20Nadim-blue?&style=flat-square&logo=linkedin&logoColor=blue" alt="LinkedIn"></a>
 </p>
 
 
@@ -66,12 +66,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --> 
 
- 
- <div >
-   <div style="width: 50%;" align="center" >
-   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=aa-nadim"></a>
-  </div>
-  </div>
+
         
   
