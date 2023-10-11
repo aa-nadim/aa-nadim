@@ -48,12 +48,24 @@
   </tr>
 </table>
 
+### Connect with me
+<p align="center">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-nadim.ice.nstu@gmail.com-red?&style=flat-square&logo=gmail&logoColor=red" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/aa-nadim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Tanzim%20Azad-blue?&style=flat-square&logo=linkedin&logoColor=blue" alt="LinkedIn"></a>
+</p>
 
-<div style="display: flex;">
-  <div style="width: 50%;" align="center" >
-    
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aa-nadim/)
-&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/aa-nadim)
+
+<!-- Here are some ideas to get you started: -->
+
+<!-- - 🔭 I’m a Backend developer
+- 🌱 I’m interested in Web Development and DevOps
+<!--- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...-->
+<!-- - 📫 How to reach me: nishan.tan.2015@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... --> 
+
  
  <div >
    <div style="width: 50%;" align="center" >
