@@ -19,12 +19,7 @@
 
 - 👁️ To see my project related videos -> [YouTube/aa nadim](https://www.youtube.com/channel/UC95KDH8V9J4J0AfbLFL1jwg)
 
-- 📄 Know about my experiences -> [My LinkedIn Profile](https://www.linkedin.com/in/aa-nadim/)
-
-
 <br>
-
-
 
 <p align="center">
  <a href="https://www.linkedin.com/in/aa-nadim/" target="_blank"> <img src="https://localist-images.azureedge.net/photos/35414231625734/big_square/1d3bb99198fc5f10b55f666c09b24b0e1d016199.jpg" alt="LinkedIn" width="60" height="60"/> </a>
@@ -34,6 +29,46 @@
 <a href="https://www.hackerrank.com/aa_nadim" target="_blank"> <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="hackerrank" width="60" height="60"/> </a>
 </p>
 </div>
+***
+
+### **Programming Languages**
+
+<a href="#" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</a>
+
+<a href="#" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+
+<a href="https://www.python.org" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</a>
+
+<a href="#" target="_blank"> 
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+
+<a href="#" target="_blank"> 
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+
+### **Databases**
+
+<a href="https://www.postgresql.org/" target="_blank"> 
+<img alt="postgresql" src="[https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdAoKwOOAggZv6gRzFwSQo6HDtnNQKzjMsetxNZ3xwOHwizIA1T_BjLSWLgIk377pRmA&usqp=CAU)">
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank"> 
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+
+
+
 
 
 
