@@ -34,7 +34,7 @@
 
 ### Connect with me
 <p align="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-nadim.ice.nstu@gmail.com-red?&style=flat-square&logo=gmail&logoColor=red" alt="Gmail"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-aa.nadim56@gmail.com-red?&style=flat-square&logo=gmail&logoColor=red" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/aa-nadim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Abdul%20Awal%20Nadim-blue?&style=flat-square&logo=linkedin&logoColor=blue" alt="LinkedIn"></a>
 </p>
 
