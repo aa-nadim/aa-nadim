@@ -32,63 +32,14 @@
 </div>
 ***
 
-### **Programming Languages**
-
-<a href="#" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-</a>
-
-<a href="#" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
-
-<a href="https://www.python.org" target="_blank">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</a>
-
-<a href="#" target="_blank"> 
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-
-<a href="#" target="_blank"> 
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</a>
-
-### **Databases**
-
-<a href="https://www.postgresql.org/" target="_blank"> 
-<img alt="postgresql" src="[https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdAoKwOOAggZv6gRzFwSQo6HDtnNQKzjMsetxNZ3xwOHwizIA1T_BjLSWLgIk377pRmA&usqp=CAU)">
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank"> 
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</a>
-
-
-
-
-
-
 ### Connect with me
 <p align="center">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-nadim.ice.nstu@gmail.com-red?&style=flat-square&logo=gmail&logoColor=red" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/aa-nadim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Abdul%20Awal%20Nadim-blue?&style=flat-square&logo=linkedin&logoColor=blue" alt="LinkedIn"></a>
 </p>
 
-
-<!-- Here are some ideas to get you started: -->
-
-<!-- - 🔭 I’m a Backend developer
-- 🌱 I’m interested in Web Development and DevOps
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-->
 <!-- - 📫 How to reach me: aa.nadim56@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ... --> 
 
 
