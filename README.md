@@ -7,12 +7,6 @@
 #### I am a graduate of Information & Communication Engineering, NSTU. Currently, I am working at ```E Soft Ltd.``` as an ```IT Intern```.
 <br/>
 
-- Interests:
-  - Web Development
-  - Data Structure and Algorithms
-  - Microservices
-  - Site Reliability Engineer(SRE)
-  - DevOps
 
 <br/>
 
