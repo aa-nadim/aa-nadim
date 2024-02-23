@@ -4,7 +4,7 @@
 **aa-nadim/aa-nadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Abdul Awal Nadim
 
-#### I am a graduate of Information & Communication Engineering, NSTU. Currently, I am working at ```E Soft Ltd.``` as an ```IT Intern```.
+#### I am a graduate of Information & Communication Engineering, NSTU.
 <br/>
 
 
