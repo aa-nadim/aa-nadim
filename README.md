@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at -> [Github/aa-nadim](https://github.com/aa-nadim)  ,  [Gitlab/aa-nadim](https://gitlab.com/aa-nadim)
 
-- 👁️ To see my project related videos -> [YouTube/aa nadim](https://www.youtube.com/channel/UC95KDH8V9J4J0AfbLFL1jwg)
-
 <br>
 
 <p align="center">
@@ -25,15 +23,6 @@
 </div>
 ***
 
-### Connect with me
-<p align="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-aa.nadim56@gmail.com-red?&style=flat-square&logo=gmail&logoColor=red" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/aa-nadim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Abdul%20Awal%20Nadim-blue?&style=flat-square&logo=linkedin&logoColor=blue" alt="LinkedIn"></a>
-</p>
-
-<!-- - 📫 How to reach me: aa.nadim56@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: ... --> 
 
 
         
